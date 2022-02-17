@@ -1,0 +1,2 @@
+La configuracion para iniciar pm2 es:
+pm2 start ./ecosystem.json

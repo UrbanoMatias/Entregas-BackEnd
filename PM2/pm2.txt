@@ -1,0 +1,1 @@
+Las pruebas que hice con pm2 fueron las borrar un proceso, listar los todos, hacer peticiones en consola.
