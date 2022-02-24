@@ -1,0 +1,5 @@
+{"level":"warn","message":"GET at /hola"}
+{"level":"warn","message":"GET at /error"}
+{"level":"error","message":"GET at /error"}
+{"level":"error","message":"GET at /error"}
+{"level":"warn","message":"GET at /papa"}
